@@ -1,6 +1,7 @@
 # SchedulEase
 SchedulEase is a simple and efficient daily timetable management platform. Plan your day, set reminders, and track your tasks effortlessly—all in one place!
 
+
 Features
 ✅ Create and manage daily schedules
 ✅ User-friendly and responsive interface
@@ -16,5 +17,7 @@ Track Progress – Mark tasks as completed and monitor your productivity.
 
 How to Run a Webpage
 To run the code, you need to open the HTML file using Live Server. This will launch the webpage in your browser automatically.
+![image](https://github.com/user-attachments/assets/fd0a05d5-eee9-4c77-8768-ac8bae04869e)
+
 
 
