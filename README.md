@@ -25,4 +25,6 @@ We have deployed our website! 🎉 You can access it directly through the link b
 ## **Preview**  
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fd0a05d5-eee9-4c77-8768-ac8bae04869e" width="300">
+    <img src="https://github.com/user-attachments/assets/2a2fe681-ac6a-43a1-b303-26df80590ba7" width="300">
+
 </p>
